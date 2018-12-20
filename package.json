@@ -1,0 +1,24 @@
+{
+  "name": "npxcard",
+  "version": "0.1.0",
+  "description": "Create a nice display for your 'npx your-name-here' package",
+  "main": "index.js",
+  "homepage": "https://github.com/chilts/npxcard#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chilts/npxcard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chilts/npxcard/issues"
+  },
+  "author": "Andrew Chilton <andychilton@gmail.com> (https://chilts.org/)",
+  "keywords": [
+    "card",
+    "npx"
+  ],
+  "license": "ISC"
+}
