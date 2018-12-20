@@ -4,6 +4,10 @@ Create a nice layout for your `npx your-name-here` card.
 
 Inspired by @bitandbang's package https://www.npmjs.com/package/bitandbang (repo: https://github.com/bnb/bitandbang).
 
+## Example ##
+
+![npxcard](https://i.postimg.cc/0NbQMWc9/npxcard-example.png)
+
 ## Usage ##
 
 To create your own `npx you-name-here` command, the easiest thing to do is fork this repo and change it for your own requirements:
